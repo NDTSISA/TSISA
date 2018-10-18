@@ -1,0 +1,18 @@
+.lines {
+  width: 70px;
+  height: 500px;
+  margin: 50px;
+  background-color: #FDEFFD;
+
+  .cursor {
+    top: 0px;
+    position: relative;
+    width: 70px;
+    height: 2px;
+    background-color: red;
+  }
+
+  .block {
+    border-bottom: 1px solid black;
+  }
+}
